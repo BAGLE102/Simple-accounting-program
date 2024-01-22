@@ -1,0 +1,27 @@
+C:\Users\adamk\source\repos\Simple accounting device\Simple accounting device\bin\Debug\net5.0-windows\Simple accounting device.exe
+C:\Users\adamk\source\repos\Simple accounting device\Simple accounting device\bin\Debug\net5.0-windows\Simple accounting device.deps.json
+C:\Users\adamk\source\repos\Simple accounting device\Simple accounting device\bin\Debug\net5.0-windows\Simple accounting device.runtimeconfig.json
+C:\Users\adamk\source\repos\Simple accounting device\Simple accounting device\bin\Debug\net5.0-windows\Simple accounting device.runtimeconfig.dev.json
+C:\Users\adamk\source\repos\Simple accounting device\Simple accounting device\bin\Debug\net5.0-windows\Simple accounting device.dll
+C:\Users\adamk\source\repos\Simple accounting device\Simple accounting device\bin\Debug\net5.0-windows\ref\Simple accounting device.dll
+C:\Users\adamk\source\repos\Simple accounting device\Simple accounting device\bin\Debug\net5.0-windows\Simple accounting device.pdb
+C:\Users\adamk\source\repos\Simple accounting device\Simple accounting device\obj\Debug\net5.0-windows\Simple accounting device.csproj.AssemblyReference.cache
+C:\Users\adamk\source\repos\Simple accounting device\Simple accounting device\obj\Debug\net5.0-windows\Simple_accounting_device.LoginFrame.resources
+C:\Users\adamk\source\repos\Simple accounting device\Simple accounting device\obj\Debug\net5.0-windows\Simple accounting device.csproj.GenerateResource.cache
+C:\Users\adamk\source\repos\Simple accounting device\Simple accounting device\obj\Debug\net5.0-windows\Simple accounting device.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamk\source\repos\Simple accounting device\Simple accounting device\obj\Debug\net5.0-windows\Simple accounting device.AssemblyInfoInputs.cache
+C:\Users\adamk\source\repos\Simple accounting device\Simple accounting device\obj\Debug\net5.0-windows\Simple accounting device.AssemblyInfo.cs
+C:\Users\adamk\source\repos\Simple accounting device\Simple accounting device\obj\Debug\net5.0-windows\Simple accounting device.csproj.CoreCompileInputs.cache
+C:\Users\adamk\source\repos\Simple accounting device\Simple accounting device\obj\Debug\net5.0-windows\Simple accounting device.dll
+C:\Users\adamk\source\repos\Simple accounting device\Simple accounting device\obj\Debug\net5.0-windows\ref\Simple accounting device.dll
+C:\Users\adamk\source\repos\Simple accounting device\Simple accounting device\obj\Debug\net5.0-windows\Simple accounting device.pdb
+C:\Users\adamk\source\repos\Simple accounting device\Simple accounting device\obj\Debug\net5.0-windows\Simple accounting device.genruntimeconfig.cache
+C:\Users\adamk\source\repos\Simple accounting device\Simple accounting device\obj\Debug\net5.0-windows\Simple_accounting_device.Properties.Resources.resources
+C:\Users\adamk\source\repos\Simple accounting device\Simple accounting device\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\adamk\source\repos\Simple accounting device\Simple accounting device\obj\Debug\net5.0-windows\Simple accounting device.csproj.CopyComplete
+C:\Users\adamk\source\repos\Simple accounting device\Simple accounting device\obj\Debug\net5.0-windows\Simple_accounting_device.MainForm.resources
+C:\Users\adamk\source\repos\Simple accounting device\Simple accounting device\bin\Debug\net5.0-windows\zh-Hant\Simple accounting device.resources.dll
+C:\Users\adamk\source\repos\Simple accounting device\Simple accounting device\obj\Debug\net5.0-windows\Simple_accounting_device.LoginFrame.zh-Hant.resources
+C:\Users\adamk\source\repos\Simple accounting device\Simple accounting device\obj\Debug\net5.0-windows\zh-Hant\Simple accounting device.resources.dll
+C:\Users\adamk\source\repos\Simple accounting device\Simple accounting device\obj\Debug\net5.0-windows\Simple_accounting_device.MainForm.zh-Hant.resources
+C:\Users\adamk\source\repos\Simple accounting device\Simple accounting device\obj\Debug\net5.0-windows\Simple_accounting_device.addAccDate.resources
